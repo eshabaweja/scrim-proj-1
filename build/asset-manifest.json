@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scrim-proj-1/static/css/main.4bd444a3.css",
+    "main.js": "/scrim-proj-1/static/js/main.6dadc0fa.js",
+    "static/media/logo.svg": "/scrim-proj-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/scrim-proj-1/index.html",
+    "main.4bd444a3.css.map": "/scrim-proj-1/static/css/main.4bd444a3.css.map",
+    "main.6dadc0fa.js.map": "/scrim-proj-1/static/js/main.6dadc0fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bd444a3.css",
+    "static/js/main.6dadc0fa.js"
+  ]
+}
